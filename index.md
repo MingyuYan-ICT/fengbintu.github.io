@@ -34,8 +34,8 @@ Oct. 2013 - Oct. 2014: **RNA**
 # Selected Publications
 Conference Papers
 * **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, Presentation at the 2017 ISSCC Student Research Preview Session (ISSCC-SRP), San Francisco, USA. (_To Appear_)
-* **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, ``RNA: A Reconfigurable Architecture for Hardware Neural Acceleration," Design, Automation and Test in Europe Conference (DATE), Grenoble, France, 2015. (**Acceptance Rate: 22%**)
-* **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, ``Neural Approximating Architecture  Targeting Multiple Application Domains," IEEE International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
+* **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, “RNA: A Reconfigurable Architecture for Hardware Neural Acceleration," Design, Automation and Test in Europe Conference (DATE), Grenoble, France, 2015. (**Acceptance Rate: 22%**)
+* **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, “Neural Approximating Architecture  Targeting Multiple Application Domains," IEEE International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
 
 # Contact
 Address: Room 3-330, FIT Building, Tsinghua University, Beijing, 100084, P.R. China
