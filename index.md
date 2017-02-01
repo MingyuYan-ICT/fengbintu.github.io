@@ -40,4 +40,6 @@ Conference Papers
 # Contact
 Address: Room 3-330, FIT Building, Tsinghua University, Beijing, 100084, P.R. China
 
-Email: tufengbin at gmail dot com
+Email1: tufengbin at gmail dot com
+
+Email2: tfb13 at mails dot tsinghua dot edu dot cn
