@@ -16,7 +16,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * Bachelor of Electronic Science and Technology 
 
 # Experience
-Sep. 2015 - Present: **DNA**
+Sep. 2015 - Oct. 2016: **DNA**
 
 * I design a deep convolutional neural network accelerator (DNA) targeting flexible and efficient convolution acceleration. DNA can support various convolution parameters while maintaining high power efficiency in different cases.
 
