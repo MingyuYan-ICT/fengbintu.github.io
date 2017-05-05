@@ -66,6 +66,4 @@ Email1: tufengbin at gmail dot com
 
 Email2: tfb13 at mails dot tsinghua dot edu dot cn
 
-<div align=center>
-<img src="./portrait.jpg" width = "500" align=center />
-</div>
+![](./portrait.jpg)
