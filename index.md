@@ -48,10 +48,10 @@ Conference Papers
 
 # Invited Talks
 DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns
-* Conference talk at ISSCC, San Francisco, USA, Feb. 2017.
-* Deephi Tech, Beijing, China, Apr. 2017.
-* AI Tech Talk, Online, May. 2017.
-* Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May. 2017.
+* Conference talk at ISSCC, San Francisco, USA, February 2017.
+* Deephi Tech, Beijing, China, April 2017.
+* AI Tech Talk, Online, May 2017.
+* Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2017.
 
 # Honors and Awards
 * ICFC Fellowship for Outstanding Ph.D. Students (2016)
