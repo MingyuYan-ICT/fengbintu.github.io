@@ -1,5 +1,5 @@
 # About Me
-My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My dissertation's title is high energy-efficient neural network accelerator design, advised by Prof. Shaojun Wei and Dr. Shouyi Yin. This is an exciting field where fresh ideas come out every day, so I build a project named [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), to collect works that interest me and make comments on them.
+My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My dissertation's title is high energy-efficient neural network accelerator design, advised by Prof. Shaojun Wei and Dr. Shouyi Yin. This is an exciting field where fresh ideas come out every day, so I'm maintaining a project named [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), to collect works that interest me and make comments on them.
 
 # Research Interests
 Computer Architecture, Deep Learning, VLSI Design, Approximate Computing
@@ -50,6 +50,8 @@ Conference Papers
 DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns
 * Conference talk at ISSCC, San Francisco, USA, Feb. 2017.
 * Deephi Tech, Beijing, China, Apr. 2017.
+* AI Tech Talk, Online, May. 2017.
+* Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May. 2017.
 
 # Honors and Awards
 * ICFC Fellowship for Outstanding Ph.D. Students (2016)
