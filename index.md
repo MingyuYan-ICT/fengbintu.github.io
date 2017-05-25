@@ -1,10 +1,12 @@
 # About Me
-My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My dissertation's title is high energy-efficient neural network accelerator design, advised by Prof. Shaojun Wei and Dr. Shouyi Yin. This is an exciting field where fresh ideas come out every day, so I'm maintaining a project named [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), to collect works that interest me and make comments on them.
+My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My dissertation's title is **High Energy-efficient Neural Network Accelerator Design**, advised by Prof. Shaojun Wei and Dr. Shouyi Yin. 
 
 A reconfigurable multi-modal neural network processor (Thinker) is designed based on my [DNA](http://ieeexplore.ieee.org/document/7898402/) architecture. The Thinker chip is exhibited at the [2016 National Mass Innovation and Entrepreneurship Week](http://news.tsinghua.edu.cn/publish/thunews/9648/2016/20161013102253491194453/20161013102253491194453_.html), as a representative work from Tsinghua University. The DNA-based Thinker chip is highly praised by Chinese Premier Li Keqiang, and featured by [Yang Lan One on One](http://www.iqiyi.com/v_19rr77vmeo.html?wx_uid1=wxidoG0a9jsItpryB9soI-lGgUuUtvlc&wx_uid2=wxidoG0a9jsItpryB9soI-lGgUuUtvlc).
 
+This is an exciting field where fresh ideas come out every day, so I'm maintaining a project named [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), to collect works that interest me and make comments on them.
+
 # Research Interests
-Computer Architecture, Deep Learning, VLSI Design, Approximate Computing
+Computer Architecture, Deep Learning, VLSI Design, Approximate Computing, Reconfigurable Computing
 
 # Education
 Sep. 2013 - Present: **Tsinghua University (THU)**
@@ -20,7 +22,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 # Project Experience
 Feb. 2017 - Present: **DNA II**
 
-* I'm designing the 2nd generation of DNA (DNA II) to enable ultra low-power computing of deep neural networks.
+* I'm designing the 2nd generation of DNA (DNA II) to enable ultra low-power computing of deep neural networks. Optimization techniques from the hardware level to the software level are used.
 
 Jan. 2016 - Present: [**Neural Networks on Silicon**](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 
@@ -28,7 +30,11 @@ Jan. 2016 - Present: [**Neural Networks on Silicon**](https://github.com/fengbin
 
 Sep. 2015 - Oct. 2016: **DNA**
 
-* I designed a deep convolutional neural network accelerator (DNA) targeting flexible and efficient convolution acceleration. DNA can support various convolution parameters while maintaining high energy efficiency in different cases.
+* I have designed a deep convolutional neural network accelerator (DNA) targeting flexible and efficient convolution acceleration. 
+  - This is the first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters.
+  - A 4-level CONV engine is designed to to support different tiling parameters for higher resource utilization and performance.
+  - A layer-based scheduling framework is proposed to optimize both system-level energy efficiency and performance.
+* A reconfigurable multi-modal neural network processor (Thinker) has been designed based on the DNA architecture.
 
 Mar. 2015 - Present: **Image/Video Encoder Based on RNA**
 
@@ -36,7 +42,7 @@ Mar. 2015 - Present: **Image/Video Encoder Based on RNA**
 
 Oct. 2013 - Oct. 2014: **RNA**
 
-* I designed a reconfigurable neural accelerator (RNA) that can be configured for different neural networks. RNA is targeted for approximate computing in multiple application domains.
+* I have designed a reconfigurable neural accelerator (RNA) that can be configured for different neural networks. RNA is targeted for approximate computing in multiple application domains.
 
 # Selected Publications
 Journal Papers
