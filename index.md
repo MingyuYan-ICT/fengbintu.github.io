@@ -30,7 +30,7 @@ Jan. 2016 - Present: [**Neural Networks on Silicon**](https://github.com/fengbin
 
 Sep. 2015 - Oct. 2016: **DNA**
 
-* I have designed a deep convolutional neural network accelerator (DNA) targeting flexible and efficient convolution acceleration. 
+* I have designed a deep convolutional neural network accelerator (DNA) targeting flexible and efficient CNN acceleration. 
   - This is the first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters.
   - A 4-level CONV engine is designed to to support different tiling parameters for higher resource utilization and performance.
   - A layer-based scheduling framework is proposed to optimize both system-level energy efficiency and performance.
