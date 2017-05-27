@@ -36,9 +36,9 @@ Sep. 2015 - Oct. 2016: **DNA**
   - A layer-based scheduling framework is proposed to optimize both system-level energy efficiency and performance.
 * A reconfigurable multi-modal neural network processor (Thinker) has been designed based on the DNA architecture.
 
-Mar. 2015 - Present: **Image/Video Encoder Based on RNA**
+Mar. 2015 - Dec. 2016: **Image/Video Encoder Based on RNA**
 
-* I'm designing an image/video encoding system based on my previous design RNA. The system can online switch to an image encoder or video encoder, by reconfiguring the processing core RNA.
+* I have designed an image/video encoding system based on my previous design RNA. The system can online switch to an image encoder or video encoder, by reconfiguring the processing core RNA.
 
 Oct. 2013 - Oct. 2014: **RNA**
 
@@ -56,8 +56,8 @@ Conference Papers
 
 # Invited Talks
 DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns
-* Conference talk at ISSCC, San Francisco, USA, February 2017.
-* Deephi Tech, Beijing, China, April 2017.
+* Conference talk at ISSCC, San Francisco, USA, Feb. 2017.
+* Deephi Tech, Beijing, China, Apr. 2017.
 * AI Tech Talk, [Online](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html), May 2017.
 * Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2017.
 
