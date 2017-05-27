@@ -79,4 +79,4 @@ Email2: tfb13 at mails dot tsinghua dot edu dot cn
 ![At Cabo da Roca, May, 2015](./portrait.jpg)
 At Cabo da Roca, May, 2015.
 
-"Aqui, onde a terra se acaba e o mar começa..." — Luís de Camões, Os Lusíadas
+"Aqui, onde a terra se acaba e o mar começa..." — Luís de Camões, *Os Lusíadas*
