@@ -11,7 +11,7 @@ Computer Architecture, Deep Learning, VLSI Design, Approximate Computing, Reconf
 # Education
 Sep. 2013 - Present: **Tsinghua University (THU)**
 
-* GPA 3.8/4.0, Rank 2/19 in the Institute of Microelectronics
+* GPA 3.8/4.0, Rank 2/20 in the Institute of Microelectronics
 * Ph.D. Candidate of Electronic Science and Technology
 
 Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUPT)**
@@ -62,6 +62,7 @@ DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computat
 * Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2017.
 
 # Honors and Awards
+* Outstanding Postgraduate Assistant of THU (2016)
 * ICFC Fellowship for Outstanding Ph.D. Students (2016)
 * THU Outstanding Student Scholarship (2016)
 * Lam Research Scholarship (2015)
