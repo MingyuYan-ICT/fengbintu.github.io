@@ -1,7 +1,7 @@
 # About Me
 My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My dissertation's title is **High Energy-efficient Neural Network Accelerator Design**, advised by Prof. Shaojun Wei and Dr. Shouyi Yin. 
 
-A reconfigurable multi-modal neural network processor (Thinker) has been designed based on my [DNA](http://ieeexplore.ieee.org/document/7898402/) architecture. The Thinker chip was exhibited at the [2016 National Mass Innovation and Entrepreneurship Week](http://news.tsinghua.edu.cn/publish/thunews/9648/2016/20161013102253491194453/20161013102253491194453_.html), as a representative work from Tsinghua University. The Thinker chip was highly praised by Chinese Premier Li Keqiang, and featured by [Yang Lan One on One](http://www.iqiyi.com/v_19rr77vmeo.html?wx_uid1=wxidoG0a9jsItpryB9soI-lGgUuUtvlc&wx_uid2=wxidoG0a9jsItpryB9soI-lGgUuUtvlc) and [AI Tech Talk](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html).
+A reconfigurable multi-modal neural network processor (Thinker) has been designed based on my [DNA](http://ieeexplore.ieee.org/document/7898402/) architecture. The Thinker chip was exhibited at the [2016 National Mass Innovation and Entrepreneurship Week](http://news.tsinghua.edu.cn/publish/thunews/9648/2016/20161013102253491194453/20161013102253491194453_.html), as a representative work from Tsinghua University. The Thinker chip was highly praised by Chinese Premier Li Keqiang, and featured by [Yang Lan One on One](http://www.iqiyi.com/v_19rr77vmeo.html?wx_uid1=wxidoG0a9jsItpryB9soI-lGgUuUtvlc&wx_uid2=wxidoG0a9jsItpryB9soI-lGgUuUtvlc) and [AI Tech Talk](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html). It won the ISLPED'17 Design Contest Award.
 
 This is an exciting field where fresh ideas come out every day, so I'm maintaining a project named [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), to collect works that interest me and make comments on them.
 
@@ -57,12 +57,14 @@ Conference Papers
 # Invited Talks
 DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns
 * Conference talk at ISSCC, San Francisco, USA, Feb. 2017.
+* Conference talk at ISLPED, Taipei, Taiwan, Jul. 2017.
 * Deephi Tech, Beijing, China, Apr. 2017.
 * AI Tech Talk, [Online](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html), May 2017.
 * Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2017.
 * Huawei, Beijing, China, Jun. 2017.
 
 # Honors and Awards
+* ISLPED'17 Design Contest Award (2017)
 * Outstanding Postgraduate Assistant of THU (2016)
 * ICFC Fellowship for Outstanding Ph.D. Students (2016)
 * THU Outstanding Student Scholarship (2016)
