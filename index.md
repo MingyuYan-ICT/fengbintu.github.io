@@ -64,7 +64,7 @@ DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computat
 * Huawei, Beijing, China, Jun. 2017.
 
 # Honors and Awards
-* ISLPED'17 Design Contest Award (2017)
+* ISLPED'17 Design Contest Winner (2017)
 * Outstanding Postgraduate Assistant of THU (2016)
 * ICFC Fellowship for Outstanding Ph.D. Students (2016)
 * THU Outstanding Student Scholarship (2016)
