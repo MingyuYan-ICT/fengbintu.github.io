@@ -1,7 +1,7 @@
 # About Me
-My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My dissertation's title is **High Energy-efficient Neural Network Accelerator Design**, advised by Prof. Shaojun Wei and Dr. Shouyi Yin. 
+My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My dissertation's title is **High Energy-efficient Neural Network Accelerator Design**, advised by Prof. Shaojun Wei and Prof. Shouyi Yin. 
 
-A reconfigurable multi-modal neural network processor (Thinker) has been designed based on my [DNA](http://ieeexplore.ieee.org/document/7898402/) architecture. The Thinker chip was exhibited at the [2016 National Mass Innovation and Entrepreneurship Week](http://news.tsinghua.edu.cn/publish/thunews/9648/2016/20161013102253491194453/20161013102253491194453_.html), as a representative work from Tsinghua University. The Thinker chip was highly praised by Chinese Premier Li Keqiang, and featured by [Yang Lan One on One](http://www.iqiyi.com/v_19rr77vmeo.html?wx_uid1=wxidoG0a9jsItpryB9soI-lGgUuUtvlc&wx_uid2=wxidoG0a9jsItpryB9soI-lGgUuUtvlc) and [AI Tech Talk](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html). It won the ISLPED'17 Design Contest Award.
+A reconfigurable multi-modal neural network processor (Thinker) has been designed based on my [DNA](http://ieeexplore.ieee.org/document/7898402/) architecture. The Thinker chip was exhibited at the [2016 National Mass Innovation and Entrepreneurship Week](http://news.tsinghua.edu.cn/publish/thunews/9648/2016/20161013102253491194453/20161013102253491194453_.html), as a representative work from Tsinghua University. The Thinker chip was highly praised by Chinese Premier Li Keqiang, and featured by [Yang Lan One on One](http://www.iqiyi.com/v_19rr77vmeo.html?wx_uid1=wxidoG0a9jsItpryB9soI-lGgUuUtvlc&wx_uid2=wxidoG0a9jsItpryB9soI-lGgUuUtvlc) and [AI Tech Talk](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html). It won the [ISLPED'17 Design Contest Award](islped.org/2017/), which was [the first time for a Chinese Mainland team to win the award](http://news.tsinghua.edu.cn/publish/thunews/10303/2017/20170809193415062503521/20170809193415062503521_.html).
 
 This is an exciting field where fresh ideas come out every day, so I'm maintaining a project named [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), to collect works that interest me and make comments on them.
 
@@ -70,6 +70,7 @@ DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computat
 * THU Outstanding Student Scholarship (2016)
 * Lam Research Scholarship (2015)
 * Outstanding Paper Award at THU Ph.D. Student Forum (2015)
+* Outstanding Graduate of BUPT (2013)
 * National Scholarship for Undergraduate Students (2010, 2011, 2012)
 * Merit Student of BUPT (2010, 2011, 2012) 
 
