@@ -46,7 +46,7 @@ Oct. 2013 - Oct. 2014: **RNA**
 
 # Selected Publications
 Journal Papers
-* **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "[Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/)," IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2017. (**Rank NO.1 in TVLSI's most frequently accessed papers for September and October 2017**)
+* **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "[Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/)," IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2017. (**Most popular paper in TVLSI since September 2017**)
 
 Conference Papers
 * S. Yin, P. Ouyang, S. Tang, **F. Tu**, L. Liu, S. Wei, "A 1.06-to-5.09 TOPS/W Reconfigurable Hybrid-Neural-Network Processor	for Deep Learning Applications," Symposia on VLSI Technology and Circuits (VLSI Symposia), Kyoto, Japan, 2017. (**The 1st Student Author**)
@@ -74,7 +74,7 @@ DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computat
 * THU Outstanding Student Scholarship (2016)
 * Lam Research Scholarship (2015)
 * Outstanding Paper Award at THU Ph.D. Student Forum (2015)
-* Outstanding Graduate of BUPT (2013)
+* Beijing Outstanding Graduate (2013)
 * National Scholarship for Undergraduate Students (2010, 2011, 2012)
 * Merit Student of BUPT (2010, 2011, 2012) 
 
