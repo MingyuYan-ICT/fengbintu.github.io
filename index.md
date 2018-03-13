@@ -12,12 +12,12 @@ Computer Architecture, Deep Learning, VLSI Design, Approximate Computing, Reconf
 Sep. 2013 - Present: **Tsinghua University (THU)**
 
 * GPA 3.8/4.0, Rank 2/20 in the Institute of Microelectronics
-* Ph.D. Candidate of Electronic Science and Technology
+* Ph.D. Candidate in Electronic Science and Technology
 
 Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUPT)**
 
 * GPA 3.9/4.0, Rank 1/255 in the School of Electronic Engineering
-* Bachelor of Electronic Science and Technology 
+* B.S. in Electronic Science and Technology 
 
 # Project Experience
 Feb. 2017 - Present: **DNA II**
