@@ -53,7 +53,7 @@ Journal Papers
 Conference Papers
 * **F. Tu**, W. Wu, S. Yin, L. Liu, S. Wei, "RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM," International Symposium on Computer Architecture (ISCA), Los Angeles, USA, 2017. (**Acceptance Rate: 16.9% = 64/378**)
 * S. Yin, P. Ouyang, S. Tang, **F. Tu**, L. Liu, S. Wei, "A 1.06-to-5.09 TOPS/W Reconfigurable Hybrid-Neural-Network Processor	for Deep Learning Applications," Symposia on VLSI Technology and Circuits (VLSI Symposia), Kyoto, Japan, 2017. (**The 1st Student Author**)
-* **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "A Reconfigurable Multi-modal Neural Processor for Cognitive Intelligence Applications," Presentation at the ISSCC Student Research Preview Session (ISSCC-SRP), San Francisco, USA, 2017. (**Acceptance Rate<25%**)
+* **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "A Reconfigurable Multi-modal Neural Processor for Cognitive Intelligence Applications," Presentation at the ISSCC Student Research Preview Session (ISSCC-SRP), San Francisco, USA, 2017. (**Acceptance Rate < 25%**)
 * **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, “RNA: A Reconfigurable Architecture for Hardware Neural Acceleration," Design, Automation and Test in Europe Conference (DATE), Grenoble, France, 2015. (**Acceptance Rate: 22%**)
 * **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, “Neural Approximating Architecture  Targeting Multiple Application Domains," IEEE International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
 
