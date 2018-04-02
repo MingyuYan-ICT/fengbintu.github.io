@@ -20,9 +20,9 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * B.S. in Electronic Science and Technology 
 
 # Project Experience
-Feb. 2017 - Present: **DNA II**
+Feb. 2017 - Mar. 2018: **RANA**
 
-* I'm designing the 2nd generation of DNA (DNA II) to enable ultra low-power computing of deep neural networks. Optimization techniques from the hardware level to the software level are used.
+* I have designed a Retention-Aware Neural Acceleration (RANA) framework for neural network accelerators to save total system energy consumption with refresh-optimized eDRAM. The work has been accepted by ISCA 2018.
 
 Jan. 2016 - Present: [**Neural Networks on Silicon**](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 
@@ -72,14 +72,14 @@ DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computat
 # Honors and Awards
 * National Scholarship for Ph.D. Students (2017)
 * ISLPED'17 Design Contest Winner (2017)
-* Outstanding Postgraduate Assistant of THU (2016)
+* THU Outstanding Postgraduate Assistant (2016)
 * ICFC Fellowship for Outstanding Ph.D. Students (2016)
 * THU Outstanding Student Scholarship (2016)
 * Lam Research Scholarship (2015)
-* Outstanding Paper Award at THU Ph.D. Student Forum (2015)
+* Outstanding Paper Award of THU Ph.D. Student Forum (2015)
 * Beijing Outstanding Graduate (2013)
 * National Scholarship for Undergraduate Students (2010, 2011, 2012)
-* Merit Student of BUPT (2010, 2011, 2012) 
+* BUPT Merit Student (2010, 2011, 2012) 
 
 # Contact
 Address: Room 3-330, FIT Building, Tsinghua University, Beijing, 100084, P.R. China
