@@ -70,6 +70,7 @@ DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computat
 * Momenta, Beijing, China, Aug. 2017.
 
 # Honors and Awards
+* IME Outstanding Young Researcher Award (2018)
 * National Scholarship for Ph.D. Students (2017)
 * ISLPED'17 Design Contest Winner (2017)
 * THU Outstanding Postgraduate Assistant (2016)
