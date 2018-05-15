@@ -48,7 +48,7 @@ Oct. 2013 - Oct. 2014: **RNA**
 Journal Papers
 * **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, "[Reconfigurable Architecture for Neural Approximation in Multimedia Computing](http://ieeexplore.ieee.org/document/8307081/)," IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018.
 * S. Yin, P. Ouyang, S. Tang, **F. Tu**, X. Li, S. Zheng, T. Lu, J. Gu, L. Liu, S. Wei, "[A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications](http://ieeexplore.ieee.org/document/8207783/)," IEEE Journal of Solid-State Circuits (JSSC), 2018. (**The 1st Student Author**)
-* **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "[Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/)," IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2017. (**TVLSI Top 5 Downloaded Manuscripts - 2017: The most popular paper from September to November.**)
+* **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "[Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/)," IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2017. (**TVLSI Top 5 Downloaded Manuscripts - 2017: 4 Times NO.1 since Sep. 2017.**)
 
 Conference Papers
 * **F. Tu**, W. Wu, S. Yin, L. Liu, S. Wei, "RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM," International Symposium on Computer Architecture (ISCA), Los Angeles, USA, 2018. (**Acceptance Rate: 16.9% = 64/378**)
