@@ -48,7 +48,7 @@ Oct. 2013 - Oct. 2014: **RNA**
 Journal Papers
 * **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, "[Reconfigurable Architecture for Neural Approximation in Multimedia Computing](http://ieeexplore.ieee.org/document/8307081/)," IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2018.
 * S. Yin, P. Ouyang, S. Tang, **F. Tu**, X. Li, S. Zheng, T. Lu, J. Gu, L. Liu, S. Wei, "[A High Energy Efficient Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications](http://ieeexplore.ieee.org/document/8207783/)," IEEE Journal of Solid-State Circuits (JSSC), 2018. (**The 1st Student Author**)
-* **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "[Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/)," IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2017. (**TVLSI Top 5 Downloaded Manuscripts - 2017: 4 Times NO.1 since Sep. 2017.**)
+* **F. Tu**, S. Yin, P. Ouyang, S. Tang, L. Liu, S. Wei, "[Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns](http://ieeexplore.ieee.org/document/7898402/)," IEEE Transactions on Very Large Scale Integration Systems (TVLSI), 2017. (**TVLSI Top 5 Downloaded Manuscripts - 2017: 4 Times Monthly NO.1 since Sep. 2017.**)
 
 Conference Papers
 * **F. Tu**, W. Wu, S. Yin, L. Liu, S. Wei, "RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM," International Symposium on Computer Architecture (ISCA), Los Angeles, USA, 2018. (**Acceptance Rate: 16.9% = 64/378**)
@@ -60,7 +60,6 @@ Conference Papers
 # Invited Talks
 DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns
 * Conference talk at ISSCC, San Francisco, USA, Feb. 2017.
-* Conference talk at ISLPED, Taipei, Jul. 2017.
 * THU Ph.D. Student Forum, Beijing, China, Oct. 2016.
 * Deephi Tech, Beijing, China, Apr. 2017.
 * AI Tech Talk, [Online](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html), May 2017.
@@ -69,7 +68,16 @@ DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computat
 * Future Chip Forum, Beijing, China, Jun. 2017.
 * Momenta, Beijing, China, Aug. 2017.
 
+Thinker: A Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications
+* Conference talk at ISLPED, Taipei, Jul. 2017.
+* Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2018.
+
+RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM
+* Conference talk at ISCA, Los Angeles, USA, Jun. 2018. (To Appear)
+* Lightning talk for ISCA, [Online](https://www.youtube.com/watch?v=QmtDP13oXFE&list=PL_i_ACawvXe6jchq9RgA0lOL42EeVA7H4&t=33s&index=5), Jun. 2018.
+
 # Honors and Awards
+* THU DengFeng Fellowship (2015, 2018)
 * IME Outstanding Young Researcher Award (2018)
 * National Scholarship for Ph.D. Students (2017)
 * ISLPED'17 Design Contest Winner (2017)
