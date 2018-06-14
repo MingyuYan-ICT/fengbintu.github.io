@@ -79,7 +79,7 @@ Thinker: A Reconfigurable Hybrid Neural Network Processor for Deep Learning Appl
 * Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2018.
 
 RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM
-* Conference talk at ISCA, Los Angeles, USA, Jun. 2018. (To Appear)
+* Conference talk at ISCA, Los Angeles, USA, Jun. 2018. 
 * Lightning talk for ISCA, [Online](https://www.youtube.com/watch?v=QmtDP13oXFE&list=PL_i_ACawvXe6jchq9RgA0lOL42EeVA7H4&t=33s&index=5), Jun. 2018.
 
 # Honors and Awards
