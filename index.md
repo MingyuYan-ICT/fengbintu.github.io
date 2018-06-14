@@ -3,6 +3,8 @@ My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institut
 
 A reconfigurable multi-modal neural network processor (Thinker) has been designed based on my [DNA](http://ieeexplore.ieee.org/document/7898402/) architecture. The Thinker chip was exhibited at the [2016 National Mass Innovation and Entrepreneurship Week](http://news.tsinghua.edu.cn/publish/thunews/9648/2016/20161013102253491194453/20161013102253491194453_.html), as a representative work from Tsinghua University. The Thinker chip was highly praised by Chinese Premier Li Keqiang, and featured by [Yang Lan One on One](http://www.iqiyi.com/v_19rr77vmeo.html?wx_uid1=wxidoG0a9jsItpryB9soI-lGgUuUtvlc&wx_uid2=wxidoG0a9jsItpryB9soI-lGgUuUtvlc), [AI Tech Talk](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html) and [MIT Technology Review](https://www.technologyreview.com/s/609954/china-wants-to-make-the-chips-that-will-add-ai-to-any-gadget/?from=timeline&isappinstalled=0). It won the [ISLPED'17 Design Contest Award](http://islped.org/2017/index.php), which was [the first time for a Chinese Mainland team to win the award](http://news.tsinghua.edu.cn/publish/thunews/10303/2017/20170809193415062503521/20170809193415062503521_.html).
 
+I have designed a Retention-Aware Neural Acceleration (RANA) framework that strengthens current DNN accelerators with refresh-optimized eDRAM to save total system energy, through techniques from training, scheduling and architecture levels. RANA was the **only** work first-authored by a Chinese research team in ISCA'18, and covered by [Tsinghua University News](http://news.tsinghua.edu.cn/publish/thunewsen/9671/2018/20180613125238640581215/20180613125238640581215_.html) and [AI Tech Talk](https://www.leiphone.com/news/201806/wFQ2Sc52Utikcl8D.html).
+
 This is an exciting field where fresh ideas come out every day, so I'm maintaining a project named [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), to collect works that interest me and make comments on them.
 
 # Research Interests
@@ -22,7 +24,11 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 # Project Experience
 Feb. 2017 - Mar. 2018: **RANA**
 
-* I have designed a Retention-Aware Neural Acceleration (RANA) framework for neural network accelerators to save total system energy consumption with refresh-optimized eDRAM. The work has been accepted by ISCA 2018.
+* I have designed a Retention-Aware Neural Acceleration (RANA) framework that strengthens DNN accelerators with refresh-optimized eDRAM to save total system energy. RANA includes three levels of techniques: 
+  - **Training Level**: A retention-aware training method is proposed to improve eDRAM's tolerable retention time with no accuracy loss. Bit-level retention errors are injected during training, so the network' s tolerance to retention failures is improved. A higher tolerable failure rate leads to longer tolerable retention time, so more refresh can be removed.
+  - **Scheduling Level**: A system energy consumption model is built in consideration of computing energy, on-chip buffer access energy, refresh energy and off-chip memory access energy. RANA schedules networks in a hybrid computation pattern based on this model. Each layer is assigned with the computation pattern that costs the lowest energy.
+  - **Architecture Level**: RANA independently disables refresh to eDRAM banks based on their storing data's lifetime, saving more refresh energy. A programmable eDRAM controller is proposed to enable the above fine-grained refresh controls.
+* RANA was the **only** work first-authored by a Chinese research team in ISCA'18.
 
 Jan. 2016 - Present: [**Neural Networks on Silicon**](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 
