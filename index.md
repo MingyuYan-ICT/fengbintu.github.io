@@ -24,7 +24,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 # Project Experience
 Feb. 2017 - Mar. 2018: **RANA**
 
-* I have designed a Retention-Aware Neural Acceleration (RANA) framework that strengthens DNN accelerators with refresh-optimized eDRAM to save total system energy. RANA includes three levels of techniques: 
+* I have designed a retention-aware neural acceleration (RANA) framework that strengthens DNN accelerators with refresh-optimized eDRAM to save total system energy. RANA includes three levels of techniques: 
   - **Training Level**: A retention-aware training method is proposed to improve eDRAM's tolerable retention time with no accuracy loss. Bit-level retention errors are injected during training, so the network' s tolerance to retention failures is improved. A higher tolerable failure rate leads to longer tolerable retention time, so more refresh can be removed.
   - **Scheduling Level**: A system energy consumption model is built in consideration of computing energy, on-chip buffer access energy, refresh energy and off-chip memory access energy. RANA schedules networks in a hybrid computation pattern based on this model. Each layer is assigned with the computation pattern that costs the lowest energy.
   - **Architecture Level**: RANA independently disables refresh to eDRAM banks based on their storing data's lifetime, saving more refresh energy. A programmable eDRAM controller is proposed to enable the above fine-grained refresh controls.
@@ -34,7 +34,7 @@ Jan. 2016 - Present: [**Neural Networks on Silicon**](https://github.com/fengbin
 
 * I'm collecting works on neural network accelerators and related topics, in a GitHub project named [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon). It has attracted many researchers all around the world.
 
-Sep. 2015 - Oct. 2016: **DNA**
+Sep. 2015 - Oct. 2016: [**DNA**](http://ieeexplore.ieee.org/document/7898402/)
 
 * I have designed a deep convolutional neural network accelerator (DNA) targeting flexible and efficient CNN acceleration. 
   - This is the first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters.
@@ -46,7 +46,7 @@ Mar. 2015 - Dec. 2016: **Image/Video Encoder Based on RNA**
 
 * I have designed an image/video encoding system based on my previous design RNA. The system can online switch to an image encoder or video encoder, by reconfiguring the processing core RNA.
 
-Oct. 2013 - Oct. 2014: **RNA**
+Oct. 2013 - Oct. 2014: [**RNA**](http://ieeexplore.ieee.org/document/8307081/)
 
 * I have designed a reconfigurable neural accelerator (RNA) that can be configured for different neural networks. RNA is targeted for approximate computing in multiple application domains.
 
