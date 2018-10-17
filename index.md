@@ -89,13 +89,13 @@ RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM
 * Department of Electronic Engineering, Tsinghua University, Beijing, China, Jun. 2018.
 
 # Honors and Awards
+* THU Outstanding Student Scholarship (2016, 2018)
 * THU DengFeng Fellowship (2015, 2018)
 * IME Outstanding Young Researcher Award (2018)
 * National Scholarship for Ph.D. Students (2017)
 * ISLPED'17 Design Contest Winner (2017)
 * THU Outstanding Postgraduate Assistant (2016)
 * ICFC Fellowship for Outstanding Ph.D. Students (2016)
-* THU Outstanding Student Scholarship (2016)
 * Lam Research Scholarship (2015)
 * Outstanding Paper Award of THU Ph.D. Student Forum (2015)
 * Beijing Outstanding Graduate (2013)
