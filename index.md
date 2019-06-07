@@ -75,7 +75,6 @@ DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computat
 * Deephi Tech, Beijing, China, Apr. 2017.
 * AI Tech Talk, [Online](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html), May 2017.
 * Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2017.
-* Huawei, Beijing, China, Jun. 2017.
 * Future Chip Forum, Beijing, China, Jun. 2017.
 * Momenta, Beijing, China, Aug. 2017.
 
