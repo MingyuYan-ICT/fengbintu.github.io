@@ -1,5 +1,5 @@
 # About Me
-My name is Fengbin Tu. I'm currently pursuing the Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. My dissertation is entitled "**Energy-Efficient Neural Network Accelerator Design**", advised by Prof. Shaojun Wei and Prof. Shouyi Yin. 
+My name is Fengbin Tu. I received the Ph.D. degree in Electronic Science and Technology from Tsinghua University, Beijing, China. My dissertation is entitled "**Architecture Design and Memory Optimization for Neural Network Accelerators**", and won the Tsinghua Excellent Dissertation Award, advised by Prof. Shaojun Wei and Prof. Shouyi Yin. 
 
 A reconfigurable multi-modal neural network processor (Thinker) has been designed based on my [DNA](http://ieeexplore.ieee.org/document/7898402/) architecture. The Thinker chip was exhibited at the [2016 National Mass Innovation and Entrepreneurship Week](http://news.tsinghua.edu.cn/publish/thunews/9648/2016/20161013102253491194453/20161013102253491194453_.html), as a representative work from Tsinghua University. The Thinker chip was highly praised by Chinese Premier Li Keqiang, and featured by [Yang Lan One on One](http://www.iqiyi.com/v_19rr77vmeo.html?wx_uid1=wxidoG0a9jsItpryB9soI-lGgUuUtvlc&wx_uid2=wxidoG0a9jsItpryB9soI-lGgUuUtvlc), [AI Tech Talk](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html) and [MIT Technology Review](https://www.technologyreview.com/s/609954/china-wants-to-make-the-chips-that-will-add-ai-to-any-gadget/?from=timeline&isappinstalled=0). It won the [ISLPED'17 Design Contest Award](http://islped.org/2017/index.php), which was [the first time for a Chinese Mainland team to win the award](http://news.tsinghua.edu.cn/publish/thunews/10303/2017/20170809193415062503521/20170809193415062503521_.html).
 
@@ -11,10 +11,12 @@ This is an exciting field where fresh ideas come out every day, so I'm maintaini
 Computer Architecture, Deep Learning, VLSI Design, Approximate Computing, Reconfigurable Computing
 
 # Education
-Sep. 2013 - Present: **Tsinghua University (THU)**
+Sep. 2013 - Jul. 2019: **Tsinghua University (THU)**
 
-* GPA 3.8/4.0, Rank 2/20 in the Institute of Microelectronics
-* Ph.D. Candidate in Electronic Science and Technology
+* Dissertation: Architecture Design and Memory Optimization for Neural Network Accelerators
+  - Tsinghua Excellent Dissertation Award
+* GPA 3.8/4.0, Rank 2/20 in the Institute of Microelectronics 
+* Ph.D. in Electronic Science and Technology
 
 Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUPT)**
 
@@ -22,6 +24,8 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * B.S. in Electronic Science and Technology 
 
 # Project Experience
+Apr. 2018 - Present: Currently, I'm working on a new-generation AI accelerator.
+
 Feb. 2017 - Mar. 2018: [**RANA**](https://ieeexplore.ieee.org/abstract/document/8416839/)
 
 * I have designed a retention-aware neural acceleration (RANA) framework that strengthens DNN accelerators with refresh-optimized eDRAM to save total system energy. RANA includes three levels of techniques: 
@@ -88,6 +92,8 @@ RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM
 * Department of Electronic Engineering, Tsinghua University, Beijing, China, Jun. 2018.
 
 # Honors and Awards
+* Beijing Outstanding Graduate (2013, 2019)
+* THU Excellent Dissertation Award (2019)
 * THU Outstanding Student Scholarship (2016, 2018)
 * THU DengFeng Fellowship (2015, 2018)
 * IME Outstanding Young Researcher Award (2018)
@@ -96,17 +102,19 @@ RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM
 * THU Outstanding Postgraduate Assistant (2016)
 * ICFC Fellowship for Outstanding Ph.D. Students (2016)
 * Lam Research Scholarship (2015)
-* Outstanding Paper Award of THU Ph.D. Student Forum (2015)
-* Beijing Outstanding Graduate (2013)
+* Excellent Paper Award of THU Ph.D. Student Forum (2015)
 * National Scholarship for Undergraduate Students (2010, 2011, 2012)
 * BUPT Merit Student (2010, 2011, 2012) 
+
+# Service and Activities
+* 2019 - Present: Reviewer, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
 # Contact
 Address: Room 3-330, FIT Building, Tsinghua University, Beijing, 100084, P.R. China
 
 Email1: tufengbin at gmail dot com
 
-Email2: tfb13 at mails dot tsinghua dot edu dot cn
+Email2: tfb13 at tsinghua dot org dot cn
 
 ![At Cabo da Roca, May, 2015](./portrait.jpg)
 At Cabo da Roca, May, 2015.
