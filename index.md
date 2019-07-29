@@ -73,6 +73,20 @@ Featured Co-authored Papers
 * **[DAC’18]** X. Lin, S. Yin, **F. Tu**, L. Liu, X. Li, S. Wei, "LCP: A Layer Clusters Paralleling Mapping Method for Accelerating Inception and Residual Networks on FPGA," Design Automation Conference (DAC), San Francisco, USA, 2018. (**Acceptance Rate: 24.3%**)
 
 # Invited Talks
+
+Architecture Design and Memory Optimization for Neural Network Accelerators
+* Dissertation talk at Tsinghua University, Beijing, China, Jul. 2019.
+* 601 Talk, Beijing, China, Jul. 2019.
+
+RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM
+* Conference talk at ISCA, Los Angeles, USA, Jun. 2018. 
+* Lightning talk for ISCA, [Online](https://www.youtube.com/watch?v=QmtDP13oXFE&list=PL_i_ACawvXe6jchq9RgA0lOL42EeVA7H4&t=33s&index=5), Jun. 2018.
+* Department of Electronic Engineering, Tsinghua University, Beijing, China, Jun. 2018.
+
+Thinker: A Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications
+* Conference talk at ISLPED, Taipei, Jul. 2017.
+* Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2018.
+
 DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns
 * Conference talk at ISSCC, San Francisco, USA, Feb. 2017.
 * THU Ph.D. Student Forum, Beijing, China, Oct. 2016.
@@ -81,15 +95,6 @@ DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computat
 * Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2017.
 * Future Chip Forum, Beijing, China, Jun. 2017.
 * Momenta, Beijing, China, Aug. 2017.
-
-Thinker: A Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications
-* Conference talk at ISLPED, Taipei, Jul. 2017.
-* Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2018.
-
-RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM
-* Conference talk at ISCA, Los Angeles, USA, Jun. 2018. 
-* Lightning talk for ISCA, [Online](https://www.youtube.com/watch?v=QmtDP13oXFE&list=PL_i_ACawvXe6jchq9RgA0lOL42EeVA7H4&t=33s&index=5), Jun. 2018.
-* Department of Electronic Engineering, Tsinghua University, Beijing, China, Jun. 2018.
 
 # Honors and Awards
 * Beijing Outstanding Graduate (2013, 2019)
