@@ -24,7 +24,7 @@ Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUP
 * B.S. in Electronic Science and Technology 
 
 # Project Experience
-Apr. 2018 - Present: Currently, I'm working on a new-generation AI accelerator.
+Apr. 2018 - Present: Currently, I'm working on a new DNN accelerator.
 
 Feb. 2017 - Mar. 2018: [**RANA**](https://ieeexplore.ieee.org/abstract/document/8416839/)
 
@@ -82,6 +82,8 @@ RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM
 * Conference talk at ISCA, Los Angeles, USA, Jun. 2018. 
 * Lightning talk for ISCA, [Online](https://www.youtube.com/watch?v=QmtDP13oXFE&list=PL_i_ACawvXe6jchq9RgA0lOL42EeVA7H4&t=33s&index=5), Jun. 2018.
 * Department of Electronic Engineering, Tsinghua University, Beijing, China, Jun. 2018.
+* Intel Labs China, Beijing, China, Aug. 2018.
+* Lam Research Technical Symposium, Beijing, China, Sep. 2018.
 
 Thinker: A Reconfigurable Hybrid Neural Network Processor for Deep Learning Applications
 * Conference talk at ISLPED, Taipei, Jul. 2017.
@@ -90,7 +92,7 @@ Thinker: A Reconfigurable Hybrid Neural Network Processor for Deep Learning Appl
 DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns
 * Conference talk at ISSCC, San Francisco, USA, Feb. 2017.
 * THU Ph.D. Student Forum, Beijing, China, Oct. 2016.
-* Deephi Tech, Beijing, China, Apr. 2017.
+* Deephi Tech, Beijing, China, Apr. 2017. 
 * AI Tech Talk, [Online](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html), May 2017.
 * Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2017.
 * Future Chip Forum, Beijing, China, Jun. 2017.
