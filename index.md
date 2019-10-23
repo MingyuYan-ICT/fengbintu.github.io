@@ -73,7 +73,7 @@ Conference Papers
 * **[ISCAS'15]** **F. Tu**, S. Yin, P. Ouyang, L. Liu, S. Wei, “Neural Approximating Architecture  Targeting Multiple Application Domains," IEEE International Symposium on Circuits and Systems (ISCAS), Lisbon, Portugal, 2015.
 
 Featured Co-authored Papers
-* **[ISVLSI'19]** F. Xiong, **F. Tu**, S. Yin, S. Wei, "Towards Efficient Compact Network Training on Edge-Devices," IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2019. (**Special Session**) 
+* **[ISVLSI'19]** F. Xiong, **F. Tu**, S. Yin, S. Wei, "Towards Efficient Compact Network Training on Edge-Devices," IEEE Computer Society Annual Symposium on VLSI (ISVLSI), Miami, USA, 2019. (**Special Session**) 
 * **[TPDS'18]** S. Yin, S. Tang, X. Lin, P. Ouyang, **F. Tu**, L. Liu, J. Zhao, C. Xu, S. Li, Y. Xie, S. Wei, "Parana: A Parallel Neural Architecture Considering Thermal Problem of 3D Stacked Memory," IEEE Transactions on Parallel and Distributed Systems (TPDS), 2018. 
 * **[TCAD'18]** J. Yan, S. Yin, **F. Tu**, L. Liu, S. Wei, "GNA: Reconfigurable and Efficient Architecture for Generative Network Acceleration," IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2018.
 * **[TCAD'18]** S. Yin, S. Tang, X. Lin, P. Ouyang, **F. Tu**, L. Liu, S. Wei, "A High Throughput
