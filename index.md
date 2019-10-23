@@ -126,9 +126,9 @@ DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computat
 # Contact
 Address: Room 3-330, FIT Building, Tsinghua University, Beijing, 100084, P.R. China
 
-Email1: tufengbin at gmail dot com
+Email1: strcat(last_name, "fengbin") at gmail dot com
 
-Email2: tfb13 at tsinghua dot org dot cn
+Email2: strcat("fengbin", last_name) at ucsb dot edu
 
 ![At Cabo da Roca, May, 2015](./portrait.jpg)
 At Cabo da Roca, May, 2015.
