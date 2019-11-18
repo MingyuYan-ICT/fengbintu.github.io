@@ -101,7 +101,7 @@ DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computat
 * Conference talk at ISSCC, San Francisco, USA, Feb. 2017.
 * THU Ph.D. Student Forum, Beijing, China, Oct. 2016.
 * Deephi Tech, Beijing, China, Apr. 2017. 
-* AI Tech Talk, [Online](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html), May 2017.
+* AI Tech Talk, [Online](https://v.qq.com/x/page/r0504zxvl3j.html) [[Text](https://www.leiphone.com/news/201705/8sB0WHz6D70J7NAy.html)], May 2017.
 * Tsinghua-ROHM International Forum of Industry-Academia (TRIFIA), Beijing, China, May 2017.
 * Future Chip Forum, Beijing, China, Jun. 2017.
 * Momenta, Beijing, China, Aug. 2017.
@@ -125,7 +125,7 @@ DNA: Deep Convolutional Neural Network Architecture with Reconfigurable Computat
 * 2019 - Present: Reviewer, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 
 # Contact
-Address: Room 3-330, FIT Building, Tsinghua University, Beijing, 100084, P.R. China
+Address: Ellison Hall 1804, UCSB, Santa Barbara, California, USA
 
 Email1: strcat(last_name, "fengbin") at gmail dot com
 
